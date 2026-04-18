@@ -1,5 +1,6 @@
 data\Persistencia.class
 domain\VehiculoCombustible.class
+domain\Marca.class
 domain\Responsable.class
 domain\Vehiculo.class
 views\ListarVehiculosView$1.class
@@ -8,5 +9,8 @@ views\Controlador.class
 app\Program.class
 views\VehiculoViewModel.class
 views\ListarVehiculosView.class
+views\AgregarVehiculoView.class
 domain\Sucursal.class
 views\ListarVehiculosView$2.class
+domain\VehiculoTipo.class
+views\MenuPrincipalView.class
